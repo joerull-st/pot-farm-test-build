@@ -55,6 +55,7 @@ Renders a visual replica of the Immersive Template hero.
 </script>
 
 <Grid additionalClasses="gap-y-8 md:gap-y-10">
+  <!-- 
   <GridRow>
     <div class="flex justify-center my-6">
       <SectionLabel>{sectionLabel}</SectionLabel>
@@ -97,5 +98,46 @@ Renders a visual replica of the Immersive Template hero.
         </div>
       </div>
     </div>
-  </GridRow>
+  </GridRow> -->
+
+
+<GridRow variant={"fullBleed"}>
+
+<div class="relative flex items-center justify-center h-screen mb-4 overflow-hidden bg-[white] xl:max-h-[1000px] lg:max-h-[900px] md:max-h-[800px] xs:max-h-[700px]">
+  <div class="absolute md:left-4 md:bottom-2 xs:left-2 xs:bottom-2 z-30 xl:p-6 lg:p-4 md:p-4 xs:p-2 text-2xl !text-[white] text-left font-editorial-news-heading-01 max-w-[875px] mt-auto drop-shadow-md">
+
+      <h1 class="xl:text-[4.5rem] lg:text-[4rem] md:text-[3rem] xs:text-[2rem] leading-[90%] mt-2 !text-shadow-[10_35px_35px_rgb(0_0_0_/_1)]">
+        ‘All hands on deck’ for<br>
+        Island Indian Community’s<br>
+        fall cannabis harvest </h1>
+  </div>
+  <video autoplay="" loop="" muted="" class="object-cover absolute h-full w-full">
+      <source src="http://static.startribune.com/news/projects/all/2025-POTFARM-TEST/POTFARMHERO_ex2.mp4" type="video/mp4">Your browser does not support the video tag.
+  </video>
+</div>
+</GridRow></Grid>
+
+<Grid>
+  <GridRow variant={"inline"} additionalClasses={"gap-y-3"}>
+<h2 class="w-full xl:w-[100%] max-w-[650px] font-editorial-non-news-heading-03 font-regular leading-title text-left mx-auto mt-20 xs:mt-10 pb-4 text-primary xl:text-3xl lg:text-2xl md:text-2xl xs:text-[24px]"><hr class="mb-3 w-[40%] border-x-0 border-t-0 border-b-4 border-b-[#00854B]">Lorem ipsum dolor sit amet, consec tetur adipiscing elit. Nulla auctor auctor vestibulum. Curabitur tellus turpis.</h2>
+
+
+<div class="byline rt-Box contents items-center gap-x-2 max-w-2xl mx-auto font-utility-label-reg-02">
+  <div class="rt-Box inline-block items-center gap-x-2">
+    <div class="rt-Box w-full mb-3 inline-block items-center gap-x-2">
+      <div class="rt-Box inline-block gap-y-0.5">
+        <div class="rt-Box inline-block items-center">
+            <p class="rt-Text font-utility-label-bold-02 text-text-primary relative mr-2">By <a class="!no-underline" href="https://www.startribune.com/author/matt-delong/6370469" target="_blank">Matt DeLong</a>, photos by <a class="!no-underline" href="hhttps://www.startribune.com/author/richard-tsong-taatarii/6370558" target="_blank">Richard Tsong-Taatarii</a></p>
+        </div>
+        <div class="rt-Text text-text-secondary font-utility-label-reg-02">The Minnesota Star Tribune</div>
+      </div>
+    </div>
+    <div class="rt-Flex inline-block rt-r-display-flex rt-r-jc-start">
+      <div class="rt-Text font-utility-label-reg-caps-03 text-text-secondary !text-[.6875rem] pb-8">November 21, 2025 at 8:00am</div>
+    </div>
+  </div>
+</div>
+</GridRow>
+
 </Grid>
+

@@ -99,48 +99,7 @@ The following example uses a ternary to render an image edge-to-edge on mobile b
     />
   </GridRow>
 
-  <GridRow variant={"fullBleed"}>
-    <ScrollySection
-      data={[
-        {
-          step: 0,
-          color: "#143D11",
-          text: "In response to this card's appearance in the viewport, the background color is now #143D11.",
-        },
-        {
-          step: 1,
-          color: "#5E95D6",
-          text: "In response to this card's appearance in the viewport, the background color is now #5E95D6.",
-        },
-        {
-          step: 2,
-          color: "#CCCCCC",
-          text: "In response to this card's appearance in the viewport, the background color is now #CCCCCC.",
-        },
-        {
-          step: 3,
-          color: "#B13B5B",
-          text: "In response to this card's appearance in the viewport, the background color is now #B13B5B.",
-        },
-        {
-          step: 4,
-          color: "#804316",
-          text: "In response to this card's appearance in the viewport, the background color is now #804316.",
-        },
-        {
-          step: 5,
-          color: "#B28333",
-          text: "In response to this card's appearance in the viewport, the background color is now #B28333.",
-        },
-        {
-          step: 6,
-          color: "#052949",
-          text: "In response to this card's appearance in the viewport, the background color is now #052949.",
-        },
-      ]}
-    />
-  </GridRow>
-
+  
   <GridRow variant="inline" additionalClasses={"gap-y-5"}>
     <Subhead>Subhead</Subhead>
 
