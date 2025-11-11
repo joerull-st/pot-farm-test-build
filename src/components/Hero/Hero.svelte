@@ -106,13 +106,13 @@ Renders a visual replica of the Immersive Template hero.
 <div class="relative flex items-center justify-center h-screen mb-4 overflow-hidden bg-[white] xl:max-h-[1000px] lg:max-h-[900px] md:max-h-[800px] xs:max-h-[700px]">
   <div class="absolute md:left-4 md:bottom-2 xs:left-2 xs:bottom-2 z-30 xl:p-6 lg:p-4 md:p-4 xs:p-2 text-2xl !text-[white] text-left font-editorial-news-heading-01 max-w-[875px] mt-auto drop-shadow-md">
 
-      <h1 class="xl:text-[4.5rem] lg:text-[4rem] md:text-[3rem] xs:text-[2rem] leading-[90%] mt-2 !text-shadow-[10_35px_35px_rgb(0_0_0_/_1)]">
+      <h1 class="xl:text-[4.5rem] lg:text-[4rem] md:text-[3rem] xs:text-[2rem] leading-[90%] mt-2">
         ‘All hands on deck’ for<br>
         Island Indian Community’s<br>
         fall cannabis harvest </h1>
   </div>
   <video autoplay="" loop="" muted="" class="object-cover absolute h-full w-full">
-      <source src="http://static.startribune.com/news/projects/all/2025-POTFARM-TEST/POTFARMHERO_ex2.mp4" type="video/mp4">Your browser does not support the video tag.
+      <source src="https://static.startribune.com/news/projects/all/2025-POTFARM-TEST/POTFARMHERO_ex3.mp4" type="video/mp4">Your browser does not support the video tag.
   </video>
 </div>
 </GridRow></Grid>
