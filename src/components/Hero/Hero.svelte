@@ -103,23 +103,21 @@ Renders a visual replica of the Immersive Template hero.
 
 <GridRow variant={"fullBleed"}>
 
-<div class="relative flex items-center justify-center h-screen mb-4 overflow-hidden bg-[white] xl:max-h-[1000px] lg:max-h-[900px] md:max-h-[800px] xs:max-h-[700px]">
+<div class="relative flex items-center justify-center h-screen mb-4 overflow-hidden bg-[white] xl:max-h-[850px] lg:max-h-[800px] md:max-h-[700px] xs:max-h-[600px]">
   <div class="absolute md:left-4 md:bottom-2 xs:left-2 xs:bottom-2 z-30 xl:p-6 lg:p-4 md:p-4 xs:p-2 text-2xl !text-[white] text-left font-editorial-news-heading-01 max-w-[875px] mt-auto drop-shadow-md">
 
-      <h1 class="xl:text-[4.5rem] lg:text-[4rem] md:text-[3rem] xs:text-[2rem] leading-[90%] mt-2">
-        ‘All hands on deck’ for<br>
-        Island Indian Community’s<br>
-        fall cannabis harvest </h1>
+      <h1 class="xl:text-[4.5rem] lg:text-[4.5rem] md:text-[3.5rem] xs:text-[2.25rem] xs:whitespace-nowrap leading-[90%] mt-2">
+        Take a look inside one of<br>Minnesota’s largest legal<br>marijuana harvests to date</h1>
   </div>
   <video autoplay="" loop="" muted="" class="object-cover absolute h-full w-full">
-      <source src="https://static.startribune.com/news/projects/all/2025-POTFARM-TEST/POTFARMHERO_ex3.mp4" type="video/mp4">Your browser does not support the video tag.
+      <source src="https://d2rhwptr68oefh.cloudfront.net/wp-startribunemedia/20251118/691cc9c8c04e3e17371b69e4/t_085ac8a14d754677a8e738003e3e5f89_name_POT_HERO_3K/file_1920x1080-5400-v4.mp4" type="video/mp4">Your browser does not support the video tag.
   </video>
 </div>
 </GridRow></Grid>
 
 <Grid>
   <GridRow variant={"inline"} additionalClasses={"gap-y-3"}>
-<h2 class="w-full xl:w-[100%] max-w-[650px] font-editorial-non-news-heading-03 font-regular leading-title text-left mx-auto mt-20 xs:mt-10 pb-4 text-primary xl:text-3xl lg:text-2xl md:text-2xl xs:text-[24px]"><hr class="mb-3 w-[40%] border-x-0 border-t-0 border-b-4 border-b-[#00854B]">Lorem ipsum dolor sit amet, consec tetur adipiscing elit. Nulla auctor auctor vestibulum. Curabitur tellus turpis.</h2>
+<h2 class="w-full xl:w-[100%] font-editorial-non-news-heading-03 font-regular leading-title text-left mx-auto mt-20 xs:mt-10 pb-4 text-primary xl:text-3xl lg:text-2xl md:text-2xl xs:text-[22px]"><hr class="mb-3 w-[40%] border-x-0 border-t-0 border-b-4 border-b-[#00854B]">It’s “all hands on deck” for Prairie Island Indian Community’s fall cannabis harvest.</h2>
 
 
 <div class="byline rt-Box contents items-center gap-x-2 max-w-2xl mx-auto font-utility-label-reg-02">

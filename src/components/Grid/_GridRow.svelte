@@ -36,7 +36,7 @@ Wrap this component around additional markup to control that markup's width and 
       case "inline":
         return "col-span-full grid md:col-start-2 md:col-span-6 lg:col-start-4";
       case "fullBleed":
-        return "col-span-full w-screen relative left-1/2 -translate-x-1/2 max-w-[1800px]";
+        return "col-span-full w-screen relative left-1/2 -translate-x-1/2 max-w-[2000px]";
     }
   });
 </script>
