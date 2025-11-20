@@ -51,7 +51,7 @@ The following example uses a ternary to render an image edge-to-edge on mobile b
   <GridRow variant={"inline"} additionalClasses={"gap-y-5"}>
     <Paragraph>NEAR HASTINGS, MINN. ― It’s just after 10 a.m. on a sunny and brisk fall morning in southeastern Minnesota’s farm country, a short distance from the Mississippi River bluffs. A crew of three men is hard at work harvesting the season’s bounty.</Paragraph>
     <Paragraph>But this is not your typical farm.</Paragraph>
-    <Paragraph> Rather than rows of corn or soybean, this crop comes with names like Blueberry Muffin, Glue 31 and Platinum Lemon Cherry Gelato. The 13-acre fenced compound outside of Hastings is owned by the Prairie Island Indian Community, which operates the  <a
+    <Paragraph> Rather than rows of corn or soybeans, this crop comes with names like Blueberry Muffin, Glue 31 and Platinum Lemon Cherry Gelato. The 13-acre fenced compound outside of Hastings is owned by the Prairie Island Indian Community, which operates the  <a
     href="https://www.islandpezi.com/"
     target="_blank"
     rel="noreferrer">Island Pězi marijuana dispensary</a> near Treasure Island Casino.</Paragraph>
@@ -65,7 +65,7 @@ The following example uses a ternary to render an image edge-to-edge on mobile b
   <GridRow variant={"fullBleed"}>
     <div class="md:max-w-6xl mt-8 mb-12 mx-auto px-2">
       <img class="block mb-2" src="https://arc.stimg.co/startribunemedia/PVK2IWPJ4BC3JGB7GZAQ44PXXA.jpg?dpr=2&amp;auto=format&amp;w=1280" alt="photo">
-      <div class="caption font-utility-meta-reg-02 text-tertiary text-right md:w-[45%] mr-0 ml-auto xs:min-w-[250px]"><hr class="mr-0 ml-auto mb-2 pt-2 w-[40%] max-w-[250px] border-x-0 border-t-0 border-b-3 border-b-[#00854B]">Matt Knoebel, head of cultivation, right, and Zach Booth, left,  loads some Blue Dream harvest from one of the green houses where temps are maintained around 80 Fahrenheit in Hastings, Minn., on Monday, Oct. 20, 2025. We go behind the scenes for the fall harvest at Prairie Island Indian Community's Island Pezi cannabis cultivation facility.</div>
+      <div class="caption font-utility-meta-reg-02 text-tertiary text-right md:w-[360px] mr-0 ml-auto xs:min-w-[250px]"><hr class="mr-0 ml-auto mb-2 pt-2 md:w-[140px] xs:w-[100px] border-x-0 border-t-0 border-b-3 border-b-[#00854B]">Mike Knoebel, head of cultivation, right, and Zach Booth help harvest some Blue Dream from a greenhouse at Prairie Island Indian Community’s cannabis cultivation facility near Hastings.</div>
     </div>
   </GridRow>
 
@@ -93,7 +93,7 @@ The following example uses a ternary to render an image edge-to-edge on mobile b
   <GridRow variant={"fullBleed"}>
     <div class="md:max-w-6xl mt-8 mb-12 mx-auto px-2">
       <img class="block mb-2" src="https://arc.stimg.co/startribunemedia/QZ6SE4L6D5GVFI2RSQ4NVVD6BI.jpg?dpr=2&amp;auto=format&amp;w=1280" alt="photo">
-      <div class="caption font-utility-meta-reg-02 text-tertiary text-right md:w-[45%] mr-0 ml-auto xs:min-w-[250px]"><hr class="mr-0 ml-auto mb-2 pt-2 w-[40%] max-w-[250px] border-x-0 border-t-0 border-b-3 border-b-[#00854B]">Zachariah Booth helps with the harvest in Hastings, Minn., on Monday, Oct. 20, 2025. We go behind the scenes for the fall harvest at Prairie Island Indian Community's Island Pezi cannabis cultivation facility.</div>
+      <div class="caption font-utility-meta-reg-02 text-tertiary text-right md:w-[340px] mr-0 ml-auto xs:min-w-[250px]"><hr class="mr-0 ml-auto mb-2 pt-2 md:w-[140px] xs:w-[100px] border-x-0 border-t-0 border-b-3 border-b-[#00854B]">Zach Booth works in a greenhouse. “During ‘Croptober,’ it’s all hands on deck wherever they need you,” he said.</div>
     </div>
   </GridRow>
 
@@ -123,7 +123,7 @@ The following example uses a ternary to render an image edge-to-edge on mobile b
         </div>
       </div>
 
-      <div class="caption font-utility-meta-reg-02 text-tertiary text-left md:w-[45%] text-right mr-0 ml-auto xs:min-w-[250px]"><hr class="mr-0 ml-auto mb-2 pt-4 w-[40%] max-w-[250px] border-x-0 border-t-0 border-b-3 border-b-[#00854B]">GROUP CAPTION HERE</div>
+      <div class="caption font-utility-meta-reg-02 text-tertiary text-left md:w-[300px] text-right mr-0 ml-auto xs:min-w-[250px]"><hr class="mr-0 ml-auto mb-2 pt-4 md:w-[140px] xs:w-[100px] max-w-[250px] border-x-0 border-t-0 border-b-3 border-b-[#00854B]">Mike Knoebel and Zach Booth harvest Blue Dream, a pungent, fruity and spicy variety of marijuana.</div>
     </div>
   </GridRow>
 
@@ -131,14 +131,14 @@ The following example uses a ternary to render an image edge-to-edge on mobile b
 
   <GridRow variant={"inline"} additionalClasses={"gap-y-5"}>
     <Subhead>Underground experience</Subhead>
-    <Paragraph>The vision for the operation’s sustainable practices comes from Good Steward CEO Tri Trong Nguyen,cq a 50-year-old Rochester native who spent years growing cannabis in Colorado.</Paragraph>
+    <Paragraph>The vision for the operation’s sustainable practices comes from Good Steward CEO Tri Trong Nguyen, a 50-year-old Rochester native who spent years growing cannabis in Colorado.</Paragraph>
     <Paragraph>Nguyen made headlines in 2015 when he was indicted as the ringleader of <a
       href="https://www.startribune.com/operation-golden-gofer-busts-historic-colo-minnesota-pot-pipeline/297691711"
       target="_blank"
       rel="noreferrer">a 32-person smuggling operation</a> that used vehicles and sky-diving planes to ship up to 400 pounds of marijuana per month from Colorado to Minnesota.</Paragraph>
     <Paragraph>Nguyen was initially sentenced in 2017 to 11 years for trafficking and money laundering. However, when his sentence was revised by the courts four months later, he was released and placed on probation, according to court documents. He declined to be interviewed for this article.</Paragraph>
-    <Paragraph>Nguyen’s story highlights a reality for Minnesota’s nascent legal cannabis industry: Many of the most experienced and sought-after cultivators gained their experience in the black market and may have complicated legal histories. </Paragraph>
-    <Paragraph>In a statement, Prairie Island’s cannabis company CBH Inc. said Nguyen and his company were thoroughly vetted before licensing. The partnership dovetails with the company’s support of social equity efforts and “non-discrimination against those disproportionately affected by prior marijuana prohibition,” the company said.</Paragraph>
+    <Paragraph>His story highlights a reality for Minnesota’s nascent legal cannabis industry: Many of the most experienced and sought-after cultivators gained their experience in the black market and may have complicated legal histories. </Paragraph>
+    <Paragraph>In a statement, the tribally owned cannabis company Prairie Island CBH Inc. said Nguyen and his company were thoroughly vetted before licensing. The partnership dovetails with the company’s support of social equity efforts and “non-discrimination against those disproportionately affected by prior marijuana prohibition,” the company said.</Paragraph>
   </GridRow>
 
 
@@ -147,7 +147,7 @@ The following example uses a ternary to render an image edge-to-edge on mobile b
   <GridRow variant={"fullBleed"}>
     <div class="md:max-w-6xl mt-8 mb-12 mx-auto px-2">
       <img class="block mb-2" src="https://arc.stimg.co/startribunemedia/HZAZLDJLNJGOJHMBG6RWA35FEE.jpg?dpr=2&amp;auto=format&amp;w=1280" alt="photo">
-      <div class="caption font-utility-meta-reg-02 text-tertiary text-right md:w-[45%] mr-0 ml-auto xs:min-w-[250px]"><hr class="mr-0 ml-auto mb-2 pt-2 w-[40%] max-w-[250px] border-x-0 border-t-0 border-b-3 border-b-[#00854B]">Laurie Murray takes a cutting from a cannabis plant in Hastings, Minn., on Tuesday, Sept. 9, 2025. We go behind the scenes for the fall harvest at Prairie Island Indian Community's Island Pezi cannabis cultivation facility.</div>
+      <div class="caption font-utility-meta-reg-02 text-tertiary text-right md:w-[350px] mr-0 ml-auto xs:min-w-[250px]"><hr class="mr-0 ml-auto mb-2 pt-2 md:w-[140px] xs:w-[100px] border-x-0 border-t-0 border-b-3 border-b-[#00854B]">Laurie Raeburn Murray takes a cutting from a cannabis plant. The cuttings will be used to start a new batch of plants.</div>
     </div>
   </GridRow>
 
@@ -175,14 +175,14 @@ The following example uses a ternary to render an image edge-to-edge on mobile b
         </div>
       </div>
 
-      <div class="caption font-utility-meta-reg-02 text-tertiary text-left md:w-[45%] text-right mr-0 ml-auto xs:min-w-[250px]"><hr class="mr-0 ml-auto mb-2 pt-4 w-[40%] max-w-[250px] border-x-0 border-t-0 border-b-3 border-b-[#00854B]">GROUP CAPTION HERE</div>
+      <div class="caption font-utility-meta-reg-02 text-tertiary text-left md:w-[350px] text-right mr-0 ml-auto xs:min-w-[250px]"><hr class="mr-0 ml-auto mb-2 pt-4 md:w-[140px] xs:w-[100px] border-x-0 border-t-0 border-b-3 border-b-[#00854B]">Plants are stacked five tiers high in a vegetative growth room, where the temperature and humidity are kept high to encourage rapid growth in the plants. This flowering cannabis plant is nearly ready for harvest.</div>
     </div>
   </GridRow>
 
 
   <GridRow variant={"inline"} additionalClasses={"gap-y-5"}>
     <Paragraph>Cannabis plants are also grown year-round in indoor vegetative and flowering rooms.</Paragraph>
-    <Paragraph>The temperature and humidity are kept high to encourage rapid growth in the “veg” rooms, where the plants are stacked from floor to ceiling to maximize growth. The plants are eventually moved to a flowering room, where the amount of light they receive is increased while the air cooled and the humidity lowered, to stave off the development of mold or the dreaded botrytis fungus, also known as bud rot.</Paragraph>
+    <Paragraph>The temperature and humidity are kept high to encourage rapid growth in the “veg” rooms, where the plants are stacked from floor to ceiling to maximize growth. The plants are eventually moved to a flowering room, where the amount of light they receive is increased while the air is cooled and the humidity lowered, to stave off the development of mold or the dreaded botrytis fungus, also known as bud rot.</Paragraph>
     <Paragraph> In an office in the compound’s main building, the entire operation is mapped and tracked using computer software. Every one of the nearly 9,000 plants at the facility must be tagged with a bar code. </Paragraph>
     <Paragraph>Randi McDonald, who oversees METRC, the tribe’s “seed-to-sale” cannabis tracking system, uses spreadsheets and color-coded maps to track the growth stages of plants in the indoor grow rooms, greenhouses and outdoor areas. When plants are moved from one place to another, she updates her maps.</Paragraph>
     <Paragraph>“It’s a lot,” she said. </Paragraph>
@@ -213,7 +213,7 @@ The following example uses a ternary to render an image edge-to-edge on mobile b
         </div>
       </div>
 
-      <div class="caption font-utility-meta-reg-02 text-tertiary text-left md:w-[45%] text-right mr-0 ml-auto xs:min-w-[250px]"><hr class="mr-0 ml-auto mb-2 pt-2 w-[40%] max-w-[250px] border-x-0 border-t-0 border-b-3 border-b-[#00854B]">GROUP CAPTION HERE</div>
+      <div class="caption font-utility-meta-reg-02 text-tertiary text-left md:w-[390px] text-right mr-0 ml-auto xs:min-w-[250px]"><hr class="mr-0 ml-auto mb-2 pt-2 md:w-[140px] xs:w-[100px] border-x-0 border-t-0 border-b-3 border-b-[#00854B]">Edibles roll off the line on Sept. 9, at top. Green apple is a popular flavor for edibles. Any buds not deemed suitable for sale as premium flower will be turned into joints, above, and other products.</div>
     </div>
   </GridRow>
 
@@ -223,6 +223,14 @@ The following example uses a ternary to render an image edge-to-edge on mobile b
     <Paragraph>A sample of every batch that goes out the door is tested for potency and contaminants like mold or pesticides. Now that the tribe has signed a cannabis compact allowing off-reservation sales, all testing will be done by state-licensed facilities, said Good Steward’s Chief Operating Officer Johnny Murray. </Paragraph>
     <Paragraph>“Everything tracking into the state must follow [Office of Cannabis Management] testing standards,” he said.</Paragraph>
     <Paragraph>At the Island Pězi dispensary, the prized top buds will be sold as premium cannabis flower, currently fetching more than $400 an ounce. </Paragraph>
+
+  </GridRow>
+
+  <GridRow variant={"inline"} additionalClasses={"gap-y-5 pb-8"}>
+    <Paragraph><i>Sign up for <a
+      href="https://startribune.com/nuggets"
+      target="_blank"
+      rel="noreferrer">Nuggets</a>, our free weekly email newsletter about legal cannabis in Minnesota.</i></Paragraph>
   </GridRow>
 
 </Grid>
@@ -233,7 +241,9 @@ The following example uses a ternary to render an image edge-to-edge on mobile b
     text-decoration-color: #00854b;
     text-underline-offset: 2px;
   }
-
+i {
+font-style: italic;
+}
   a:hover {
     color: #00854b;
   }
