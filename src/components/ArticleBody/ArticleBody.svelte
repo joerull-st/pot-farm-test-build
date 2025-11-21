@@ -182,7 +182,7 @@ The following example uses a ternary to render an image edge-to-edge on mobile b
 
   <GridRow variant={"inline"} additionalClasses={"gap-y-5"}>
     <Paragraph>Cannabis plants are also grown year-round in indoor vegetative and flowering rooms.</Paragraph>
-    <Paragraph>The temperature and humidity are kept high to encourage rapid growth in the “veg” rooms, where the plants are stacked from floor to ceiling to maximize growth. The plants are eventually moved to a flowering room, where the amount of light they receive is increased while the air is cooled and the humidity lowered, to stave off the development of mold or the dreaded botrytis fungus, also known as bud rot.</Paragraph>
+    <Paragraph>The temperature and humidity are kept high to encourage rapid growth in the “veg” rooms, where the plants are stacked from floor to ceiling to maximize growth. The plants are eventually moved to a flowering room, where the number of hours of light they receive each day is reduced, the air is cooled and the humidity lowered, to stave off the development of mold or the dreaded botrytis fungus, also known as bud rot.</Paragraph>
     <Paragraph> In an office in the compound’s main building, the entire operation is mapped and tracked using computer software. Every one of the nearly 9,000 plants at the facility must be tagged with a bar code. </Paragraph>
     <Paragraph>Randi McDonald, who oversees METRC, the tribe’s “seed-to-sale” cannabis tracking system, uses spreadsheets and color-coded maps to track the growth stages of plants in the indoor grow rooms, greenhouses and outdoor areas. When plants are moved from one place to another, she updates her maps.</Paragraph>
     <Paragraph>“It’s a lot,” she said. </Paragraph>
