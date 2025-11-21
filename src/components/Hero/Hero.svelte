@@ -106,8 +106,8 @@ Renders a visual replica of the Immersive Template hero.
 <div class="relative flex items-center justify-center h-screen mb-4 overflow-hidden bg-[white] xl:max-h-[900px] lg:max-h-[850px] md:max-h-[700px] xs:max-h-[600px]">
 
   <div class="absolute md:left-4 md:bottom-2 xs:left-2 xs:bottom-2 z-30 xl:p-6 lg:p-4 md:p-4 xs:p-2 text-2xl !text-[white] text-left font-editorial-news-heading-01 max-w-[875px] mt-auto drop-shadow-md">
-      <h1 class="xl:text-[4.5rem] lg:text-[4.5rem] md:text-[3.5rem] xs:text-[2.25rem] xs:whitespace-nowrap leading-[90%] mt-2">
-        Take a look inside one of<br>Minnesota’s largest legal<br>marijuana harvests to date</h1>
+      <h1 class="xl:text-[4.5rem] lg:text-[4.5rem] md:text-[3.5rem] lg:max-w-[750px] md:max-w-[550px] xs:text-[2.25rem] leading-[90%] mt-2">
+        Take a look inside one of Minnesota’s largest legal marijuana harvests to date</h1>
   </div>
 
   
