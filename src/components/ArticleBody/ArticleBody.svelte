@@ -65,7 +65,7 @@ The following example uses a ternary to render an image edge-to-edge on mobile b
   <GridRow variant={"fullBleed"}>
     <div class="md:max-w-6xl mt-8 mb-12 mx-auto px-2">
       <img class="block mb-2" src="https://arc.stimg.co/startribunemedia/PVK2IWPJ4BC3JGB7GZAQ44PXXA.jpg?dpr=2&amp;auto=format&amp;w=1280" alt="photo">
-      <div class="caption font-utility-meta-reg-02 text-tertiary text-right md:w-[360px] mr-0 ml-auto xs:min-w-[250px]"><hr class="mr-0 ml-auto mb-2 pt-2 md:w-[140px] xs:w-[100px] border-x-0 border-t-0 border-b-3 border-b-[#00854B]">Mike Knoebel, head of cultivation, right, and Zach Booth help harvest some Blue Dream from a greenhouse at Prairie Island Indian Community’s cannabis cultivation facility near Hastings.</div>
+      <div class="caption font-utility-meta-reg-02 text-tertiary text-right md:w-[360px] mr-0 ml-auto xs:min-w-[250px]"><hr class="mr-0 ml-auto mb-2 pt-2 md:w-[140px] xs:w-[100px] border-x-0 border-t-0 border-b-3 border-b-[#00854B]">Mike Knoebel, head of cultivation, right, and Spencer Prokop help harvest some Blue Dream from a greenhouse at Prairie Island Indian Community’s cannabis cultivation facility near Hastings.</div>
     </div>
   </GridRow>
 
@@ -123,7 +123,7 @@ The following example uses a ternary to render an image edge-to-edge on mobile b
         </div>
       </div>
 
-      <div class="caption font-utility-meta-reg-02 text-tertiary text-left md:w-[300px] text-right mr-0 ml-auto xs:min-w-[250px]"><hr class="mr-0 ml-auto mb-2 pt-4 md:w-[140px] xs:w-[100px] max-w-[250px] border-x-0 border-t-0 border-b-3 border-b-[#00854B]">Mike Knoebel and Zach Booth harvest Blue Dream, a pungent, fruity and spicy variety of marijuana.</div>
+      <div class="caption font-utility-meta-reg-02 text-tertiary text-left md:w-[300px] text-right mr-0 ml-auto xs:min-w-[250px]"><hr class="mr-0 ml-auto mb-2 pt-4 md:w-[140px] xs:w-[100px] max-w-[250px] border-x-0 border-t-0 border-b-3 border-b-[#00854B]">Mike Knoebel and Spencer Prokop harvest Blue Dream, a pungent, fruity and spicy variety of marijuana.</div>
     </div>
   </GridRow>
 
